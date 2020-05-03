@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\Geometria\Geometria\bin\Debug\Geometria.exe.config
+C:\Users\Usuario\source\repos\Geometria\Geometria\bin\Debug\Geometria.exe
+C:\Users\Usuario\source\repos\Geometria\Geometria\bin\Debug\Geometria.pdb
+C:\Users\Usuario\source\repos\Geometria\Geometria\obj\Debug\Geometria.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Geometria\Geometria\obj\Debug\Geometria.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Geometria\Geometria\obj\Debug\Geometria.exe
+C:\Users\Usuario\source\repos\Geometria\Geometria\obj\Debug\Geometria.pdb

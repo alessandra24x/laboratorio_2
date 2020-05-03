@@ -1,0 +1,13 @@
+C:\Users\Usuario\source\repos\Ejercicio28\Ejercicio28\bin\Debug\Ejercicio28.exe.config
+C:\Users\Usuario\source\repos\Ejercicio28\Ejercicio28\bin\Debug\Ejercicio28.exe
+C:\Users\Usuario\source\repos\Ejercicio28\Ejercicio28\bin\Debug\Ejercicio28.pdb
+C:\Users\Usuario\source\repos\Ejercicio28\Ejercicio28\bin\Debug\Entidades.dll
+C:\Users\Usuario\source\repos\Ejercicio28\Ejercicio28\bin\Debug\Entidades.pdb
+C:\Users\Usuario\source\repos\Ejercicio28\Ejercicio28\obj\Debug\Ejercicio28.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Ejercicio28\Ejercicio28\obj\Debug\Ejercicio28.FormContadorPalabras.resources
+C:\Users\Usuario\source\repos\Ejercicio28\Ejercicio28\obj\Debug\Ejercicio28.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Ejercicio28\Ejercicio28\obj\Debug\Ejercicio28.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Ejercicio28\Ejercicio28\obj\Debug\Ejercicio28.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Ejercicio28\Ejercicio28\obj\Debug\Ejercicio28.csproj.CopyComplete
+C:\Users\Usuario\source\repos\Ejercicio28\Ejercicio28\obj\Debug\Ejercicio28.exe
+C:\Users\Usuario\source\repos\Ejercicio28\Ejercicio28\obj\Debug\Ejercicio28.pdb

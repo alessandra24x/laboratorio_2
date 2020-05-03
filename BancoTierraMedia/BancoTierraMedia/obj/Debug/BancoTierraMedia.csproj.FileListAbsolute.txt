@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\BancoTierraMedia\BancoTierraMedia\bin\Debug\BancoTierraMedia.exe.config
+C:\Users\Usuario\source\repos\BancoTierraMedia\BancoTierraMedia\bin\Debug\BancoTierraMedia.exe
+C:\Users\Usuario\source\repos\BancoTierraMedia\BancoTierraMedia\bin\Debug\BancoTierraMedia.pdb
+C:\Users\Usuario\source\repos\BancoTierraMedia\BancoTierraMedia\obj\Debug\BancoTierraMedia.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\BancoTierraMedia\BancoTierraMedia\obj\Debug\BancoTierraMedia.Inicio.resources
+C:\Users\Usuario\source\repos\BancoTierraMedia\BancoTierraMedia\obj\Debug\BancoTierraMedia.Properties.Resources.resources
+C:\Users\Usuario\source\repos\BancoTierraMedia\BancoTierraMedia\obj\Debug\BancoTierraMedia.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\BancoTierraMedia\BancoTierraMedia\obj\Debug\BancoTierraMedia.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\BancoTierraMedia\BancoTierraMedia\obj\Debug\BancoTierraMedia.exe
+C:\Users\Usuario\source\repos\BancoTierraMedia\BancoTierraMedia\obj\Debug\BancoTierraMedia.pdb
+C:\Users\Usuario\source\repos\BancoTierraMedia\BancoTierraMedia\obj\Debug\BancoTierraMedia.Prestamos.resources

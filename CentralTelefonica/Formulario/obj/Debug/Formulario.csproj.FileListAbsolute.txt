@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\CentralTelefonica\Formulario\bin\Debug\Formulario.exe.config
+C:\Users\Usuario\source\repos\CentralTelefonica\Formulario\bin\Debug\Formulario.exe
+C:\Users\Usuario\source\repos\CentralTelefonica\Formulario\bin\Debug\Formulario.pdb
+C:\Users\Usuario\source\repos\CentralTelefonica\Formulario\bin\Debug\CentralitaHerencia.dll
+C:\Users\Usuario\source\repos\CentralTelefonica\Formulario\bin\Debug\CentralitaHerencia.pdb
+C:\Users\Usuario\source\repos\CentralTelefonica\Formulario\obj\Debug\Formulario.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\CentralTelefonica\Formulario\obj\Debug\Formulario.FormLlamador.resources
+C:\Users\Usuario\source\repos\CentralTelefonica\Formulario\obj\Debug\Formulario.FrmMenu.resources
+C:\Users\Usuario\source\repos\CentralTelefonica\Formulario\obj\Debug\Formulario.FormMostrar.resources
+C:\Users\Usuario\source\repos\CentralTelefonica\Formulario\obj\Debug\Formulario.Properties.Resources.resources
+C:\Users\Usuario\source\repos\CentralTelefonica\Formulario\obj\Debug\Formulario.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\CentralTelefonica\Formulario\obj\Debug\Formulario.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\CentralTelefonica\Formulario\obj\Debug\Formulario.csproj.CopyComplete
+C:\Users\Usuario\source\repos\CentralTelefonica\Formulario\obj\Debug\Formulario.exe
+C:\Users\Usuario\source\repos\CentralTelefonica\Formulario\obj\Debug\Formulario.pdb

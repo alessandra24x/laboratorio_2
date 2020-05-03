@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\20191010-PrimerParcial-alumno\ControlesUsuario\bin\Release\ControlesUsuario.dll
+C:\Users\Usuario\source\repos\20191010-PrimerParcial-alumno\ControlesUsuario\bin\Release\ControlesUsuario.pdb
+C:\Users\Usuario\source\repos\20191010-PrimerParcial-alumno\ControlesUsuario\bin\Release\Entidades.dll
+C:\Users\Usuario\source\repos\20191010-PrimerParcial-alumno\ControlesUsuario\bin\Release\Entidades.pdb
+C:\Users\Usuario\source\repos\20191010-PrimerParcial-alumno\ControlesUsuario\obj\Release\ControlesUsuario.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\20191010-PrimerParcial-alumno\ControlesUsuario\obj\Release\ControlCantina.Barra.resources
+C:\Users\Usuario\source\repos\20191010-PrimerParcial-alumno\ControlesUsuario\obj\Release\ControlesUsuario.Properties.Resources.resources
+C:\Users\Usuario\source\repos\20191010-PrimerParcial-alumno\ControlesUsuario\obj\Release\ControlesUsuario.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\20191010-PrimerParcial-alumno\ControlesUsuario\obj\Release\ControlesUsuario.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\20191010-PrimerParcial-alumno\ControlesUsuario\obj\Release\ControlesUsuario.csproj.CopyComplete
+C:\Users\Usuario\source\repos\20191010-PrimerParcial-alumno\ControlesUsuario\obj\Release\ControlesUsuario.dll
+C:\Users\Usuario\source\repos\20191010-PrimerParcial-alumno\ControlesUsuario\obj\Release\ControlesUsuario.pdb

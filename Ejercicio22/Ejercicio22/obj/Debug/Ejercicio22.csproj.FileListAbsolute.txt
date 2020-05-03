@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\Ejercicio22\Ejercicio22\bin\Debug\Ejercicio22.exe.config
+C:\Users\Usuario\source\repos\Ejercicio22\Ejercicio22\bin\Debug\Ejercicio22.exe
+C:\Users\Usuario\source\repos\Ejercicio22\Ejercicio22\bin\Debug\Ejercicio22.pdb
+C:\Users\Usuario\source\repos\Ejercicio22\Ejercicio22\bin\Debug\Entidades.dll
+C:\Users\Usuario\source\repos\Ejercicio22\Ejercicio22\bin\Debug\Entidades.pdb
+C:\Users\Usuario\source\repos\Ejercicio22\Ejercicio22\obj\Debug\Ejercicio22.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Ejercicio22\Ejercicio22\obj\Debug\Ejercicio22.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Ejercicio22\Ejercicio22\obj\Debug\Ejercicio22.csproj.CopyComplete
+C:\Users\Usuario\source\repos\Ejercicio22\Ejercicio22\obj\Debug\Ejercicio22.exe
+C:\Users\Usuario\source\repos\Ejercicio22\Ejercicio22\obj\Debug\Ejercicio22.pdb

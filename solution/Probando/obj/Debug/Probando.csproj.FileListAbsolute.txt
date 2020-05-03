@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\solution\Probando\bin\Debug\Probando.exe.config
+C:\Users\Usuario\source\repos\solution\Probando\bin\Debug\Probando.exe
+C:\Users\Usuario\source\repos\solution\Probando\bin\Debug\Probando.pdb
+C:\Users\Usuario\source\repos\solution\Probando\obj\Debug\Probando.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\solution\Probando\obj\Debug\Probando.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\solution\Probando\obj\Debug\Probando.exe
+C:\Users\Usuario\source\repos\solution\Probando\obj\Debug\Probando.pdb

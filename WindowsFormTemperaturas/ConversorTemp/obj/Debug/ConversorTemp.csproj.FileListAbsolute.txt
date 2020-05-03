@@ -1,0 +1,6 @@
+C:\Users\Usuario\source\repos\WindowsFormTemperaturas\ConversorTemp\bin\Debug\ConversorTemp.dll
+C:\Users\Usuario\source\repos\WindowsFormTemperaturas\ConversorTemp\bin\Debug\ConversorTemp.pdb
+C:\Users\Usuario\source\repos\WindowsFormTemperaturas\ConversorTemp\obj\Debug\ConversorTemp.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\WindowsFormTemperaturas\ConversorTemp\obj\Debug\ConversorTemp.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\WindowsFormTemperaturas\ConversorTemp\obj\Debug\ConversorTemp.dll
+C:\Users\Usuario\source\repos\WindowsFormTemperaturas\ConversorTemp\obj\Debug\ConversorTemp.pdb

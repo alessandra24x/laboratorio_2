@@ -1,0 +1,13 @@
+C:\Users\Usuario\source\repos\WindowsFormTemperaturas\WindowsFormTemperaturas\bin\Debug\WindowsFormTemperaturas.exe.config
+C:\Users\Usuario\source\repos\WindowsFormTemperaturas\WindowsFormTemperaturas\bin\Debug\WindowsFormTemperaturas.exe
+C:\Users\Usuario\source\repos\WindowsFormTemperaturas\WindowsFormTemperaturas\bin\Debug\WindowsFormTemperaturas.pdb
+C:\Users\Usuario\source\repos\WindowsFormTemperaturas\WindowsFormTemperaturas\bin\Debug\ConversorTemp.dll
+C:\Users\Usuario\source\repos\WindowsFormTemperaturas\WindowsFormTemperaturas\bin\Debug\ConversorTemp.pdb
+C:\Users\Usuario\source\repos\WindowsFormTemperaturas\WindowsFormTemperaturas\obj\Debug\WindowsFormTemperaturas.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\WindowsFormTemperaturas\WindowsFormTemperaturas\obj\Debug\WindowsFormTemperaturas.FormConversorT.resources
+C:\Users\Usuario\source\repos\WindowsFormTemperaturas\WindowsFormTemperaturas\obj\Debug\WindowsFormTemperaturas.Properties.Resources.resources
+C:\Users\Usuario\source\repos\WindowsFormTemperaturas\WindowsFormTemperaturas\obj\Debug\WindowsFormTemperaturas.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\WindowsFormTemperaturas\WindowsFormTemperaturas\obj\Debug\WindowsFormTemperaturas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\WindowsFormTemperaturas\WindowsFormTemperaturas\obj\Debug\WindowsFormTemperaturas.csproj.CopyComplete
+C:\Users\Usuario\source\repos\WindowsFormTemperaturas\WindowsFormTemperaturas\obj\Debug\WindowsFormTemperaturas.exe
+C:\Users\Usuario\source\repos\WindowsFormTemperaturas\WindowsFormTemperaturas\obj\Debug\WindowsFormTemperaturas.pdb

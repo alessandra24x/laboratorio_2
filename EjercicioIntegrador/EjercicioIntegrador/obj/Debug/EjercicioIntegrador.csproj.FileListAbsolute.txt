@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\EjercicioIntegrador\EjercicioIntegrador\bin\Debug\EjercicioIntegrador.exe.config
+C:\Users\Usuario\source\repos\EjercicioIntegrador\EjercicioIntegrador\bin\Debug\EjercicioIntegrador.exe
+C:\Users\Usuario\source\repos\EjercicioIntegrador\EjercicioIntegrador\bin\Debug\EjercicioIntegrador.pdb
+C:\Users\Usuario\source\repos\EjercicioIntegrador\EjercicioIntegrador\obj\Debug\EjercicioIntegrador.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\EjercicioIntegrador\EjercicioIntegrador\obj\Debug\EjercicioIntegrador.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\EjercicioIntegrador\EjercicioIntegrador\obj\Debug\EjercicioIntegrador.exe
+C:\Users\Usuario\source\repos\EjercicioIntegrador\EjercicioIntegrador\obj\Debug\EjercicioIntegrador.pdb

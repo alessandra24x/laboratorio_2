@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\EjercicioRepaso\EjercicioRepaso\bin\Debug\EjercicioRepaso.exe.config
+C:\Users\Usuario\source\repos\EjercicioRepaso\EjercicioRepaso\bin\Debug\EjercicioRepaso.exe
+C:\Users\Usuario\source\repos\EjercicioRepaso\EjercicioRepaso\bin\Debug\EjercicioRepaso.pdb
+C:\Users\Usuario\source\repos\EjercicioRepaso\EjercicioRepaso\obj\Debug\EjercicioRepaso.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\EjercicioRepaso\EjercicioRepaso\obj\Debug\EjercicioRepaso.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\EjercicioRepaso\EjercicioRepaso\obj\Debug\EjercicioRepaso.exe
+C:\Users\Usuario\source\repos\EjercicioRepaso\EjercicioRepaso\obj\Debug\EjercicioRepaso.pdb

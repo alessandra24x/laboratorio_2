@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\EjercicioRepaso\Estacionamiento-Forms\bin\Debug\Estacionamiento-Forms.exe.config
+C:\Users\Usuario\source\repos\EjercicioRepaso\Estacionamiento-Forms\bin\Debug\Estacionamiento-Forms.exe
+C:\Users\Usuario\source\repos\EjercicioRepaso\Estacionamiento-Forms\bin\Debug\Estacionamiento-Forms.pdb
+C:\Users\Usuario\source\repos\EjercicioRepaso\Estacionamiento-Forms\obj\Debug\Estacionamiento-Forms.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\EjercicioRepaso\Estacionamiento-Forms\obj\Debug\Estacionamiento_Forms.Form1.resources
+C:\Users\Usuario\source\repos\EjercicioRepaso\Estacionamiento-Forms\obj\Debug\Estacionamiento_Forms.Properties.Resources.resources
+C:\Users\Usuario\source\repos\EjercicioRepaso\Estacionamiento-Forms\obj\Debug\Estacionamiento-Forms.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\EjercicioRepaso\Estacionamiento-Forms\obj\Debug\Estacionamiento-Forms.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\EjercicioRepaso\Estacionamiento-Forms\obj\Debug\Estacionamiento-Forms.exe
+C:\Users\Usuario\source\repos\EjercicioRepaso\Estacionamiento-Forms\obj\Debug\Estacionamiento-Forms.pdb

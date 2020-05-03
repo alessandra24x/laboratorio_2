@@ -1,0 +1,6 @@
+C:\Users\Usuario\source\repos\Ejercicio25\Conversor\bin\Debug\Conversor.dll
+C:\Users\Usuario\source\repos\Ejercicio25\Conversor\bin\Debug\Conversor.pdb
+C:\Users\Usuario\source\repos\Ejercicio25\Conversor\obj\Debug\Conversor.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Ejercicio25\Conversor\obj\Debug\Conversor.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Ejercicio25\Conversor\obj\Debug\Conversor.dll
+C:\Users\Usuario\source\repos\Ejercicio25\Conversor\obj\Debug\Conversor.pdb
