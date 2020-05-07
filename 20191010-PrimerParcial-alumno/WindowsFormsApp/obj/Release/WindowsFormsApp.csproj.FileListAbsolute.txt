@@ -13,3 +13,10 @@ C:\Users\Usuario\source\repos\20191010-PrimerParcial-alumno\WindowsFormsApp\obj\
 C:\Users\Usuario\source\repos\20191010-PrimerParcial-alumno\WindowsFormsApp\obj\Release\WindowsFormsApp.csproj.CopyComplete
 C:\Users\Usuario\source\repos\20191010-PrimerParcial-alumno\WindowsFormsApp\obj\Release\WindowsFormsApp.exe
 C:\Users\Usuario\source\repos\20191010-PrimerParcial-alumno\WindowsFormsApp\obj\Release\WindowsFormsApp.pdb
+C:\Users\Usuario\source\repos\Ejercicios\20191010-PrimerParcial-alumno\WindowsFormsApp\obj\Release\WindowsFormsApp.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Ejercicios\20191010-PrimerParcial-alumno\WindowsFormsApp\obj\Release\WindowsFormsApp.FrmCantina.resources
+C:\Users\Usuario\source\repos\Ejercicios\20191010-PrimerParcial-alumno\WindowsFormsApp\obj\Release\WindowsFormsApp.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Ejercicios\20191010-PrimerParcial-alumno\WindowsFormsApp\obj\Release\WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Ejercicios\20191010-PrimerParcial-alumno\WindowsFormsApp\obj\Release\WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Ejercicios\20191010-PrimerParcial-alumno\WindowsFormsApp\obj\Release\WindowsFormsApp.exe
+C:\Users\Usuario\source\repos\Ejercicios\20191010-PrimerParcial-alumno\WindowsFormsApp\obj\Release\WindowsFormsApp.pdb

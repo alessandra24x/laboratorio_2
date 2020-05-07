@@ -59,6 +59,7 @@ namespace CentralitaHerencia
 
             foreach (Llamada llamada in listaDeLlamadas)
             {
+                llamada.CostoLlamada
                 if (tipo == Llamada.TipoLlamada.Local || tipo == Llamada.TipoLlamada.Todas)
                 {
                     if (llamada is Local)

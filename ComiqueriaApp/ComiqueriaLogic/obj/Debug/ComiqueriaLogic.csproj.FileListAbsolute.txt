@@ -1,0 +1,6 @@
+C:\Users\Usuario\source\repos\ComiqueriaApp\ComiqueriaLogic\bin\Debug\ComiqueriaLogic.dll
+C:\Users\Usuario\source\repos\ComiqueriaApp\ComiqueriaLogic\bin\Debug\ComiqueriaLogic.pdb
+C:\Users\Usuario\source\repos\ComiqueriaApp\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\ComiqueriaApp\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ComiqueriaApp\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.dll
+C:\Users\Usuario\source\repos\ComiqueriaApp\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.pdb
